@@ -33,6 +33,7 @@ You can check it out here [https://leetcode.com/discuss/general-discussion/46885
 - [Express](https://expressjs.com/) : Node.js framework
 - [C++ addon](https://nodejs.org/api/addons.html) : core prediction algorithm implementation and acceleration
 - [Bottleneck](https://github.com/SGrondin/bottleneck#readme) : lightweight and zero-dependency Task Scheduler and Rate Limiter for Node.js and the browser
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 - [Node-cache](https://github.com/node-cache/node-cache) : A simple tool for caching data.
 - [Axios](https://axios-http.com/) : To make API calls.
 
